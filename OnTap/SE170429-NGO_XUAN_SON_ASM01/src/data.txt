@@ -1,0 +1,22 @@
+Line 0 - The next line is line 1 (f1)
+ A  B  C  E  G  P  T
+ 16  5  6  1  70  4  3
+ 80  3  5  1  9  7  -2
+Line 4 - The next line is line 5 (f2)
+ ou  Uu  xX  TT  ER
+ 9  1  8  5  4
+ 8  3  5  4  9
+Line 8 - The next line is line 9 (f3)
+ 1  4  6  0  1  4  7  xxx
+ 9  5  6  1  7  4  3  3
+ 8  3  5  1  9  7  2  9
+Line 12 - The next line is line 13 (f4)
+ A  D  C  E  F  G  I  H
+ 9  5  6  1  7  4  2  3
+ 8  3  3  7  7  7  2  2
+Line 16 - The next line is line 13 (f5)
+ F  E  C  R  F  P  X  J
+ 9  5  6  1  7  4  2  3
+ 8  3  3  7  7  7  2  2
+END
+
